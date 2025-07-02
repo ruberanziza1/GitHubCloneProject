@@ -1,2 +1,9 @@
-Objective: Practice branching, merging, and resolving conflicts.
-Modification in main branch.
+# GitHubCloneProject
+
+## Objective
+This project demonstrates branching, making changes, and resolving merge conflicts to simulate a common collaborative workflow on Git and GitHub.
+
+## Skills Practiced
+- Branching and navigating between branches
+- Making changes in different branches and committing those changes
+- Merging branches and resolving conflicts
